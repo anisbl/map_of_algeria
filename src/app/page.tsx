@@ -18,7 +18,7 @@ export default function Home() {
         >
         
           <h1 className="text-3xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-violet-600 mb-3">
-            Algeria Map - 58 Wilayas
+            Algeria Map - 58 Wilayas by anisbl
           </h1>
           <p className="text-gray-600 italic text-mf">
             Copy the code and use it on your site for statistical visualization.
